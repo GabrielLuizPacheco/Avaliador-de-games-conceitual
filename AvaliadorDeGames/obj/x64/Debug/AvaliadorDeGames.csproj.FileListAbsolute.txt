@@ -1,0 +1,16 @@
+C:\Users\gabri\source\repos\solution_AvaliadorDeGames_Gabriel\AvaliadorDeGames\bin\x64\Debug\DBavalidorDeGames.mdf
+C:\Users\gabri\source\repos\solution_AvaliadorDeGames_Gabriel\AvaliadorDeGames\bin\x64\Debug\DBavalidorDeGames_log.ldf
+C:\Users\gabri\source\repos\solution_AvaliadorDeGames_Gabriel\AvaliadorDeGames\bin\x64\Debug\AvaliadorDeGames.exe.config
+C:\Users\gabri\source\repos\solution_AvaliadorDeGames_Gabriel\AvaliadorDeGames\bin\x64\Debug\AvaliadorDeGames.exe
+C:\Users\gabri\source\repos\solution_AvaliadorDeGames_Gabriel\AvaliadorDeGames\bin\x64\Debug\AvaliadorDeGames.pdb
+C:\Users\gabri\source\repos\solution_AvaliadorDeGames_Gabriel\AvaliadorDeGames\obj\x64\Debug\AvaliadorDeGames.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\solution_AvaliadorDeGames_Gabriel\AvaliadorDeGames\obj\x64\Debug\AvaliadorDeGames.View.telaAlterarDadosUsuario.resources
+C:\Users\gabri\source\repos\solution_AvaliadorDeGames_Gabriel\AvaliadorDeGames\obj\x64\Debug\AvaliadorDeGames.View.telaCadastrarJogo.resources
+C:\Users\gabri\source\repos\solution_AvaliadorDeGames_Gabriel\AvaliadorDeGames\obj\x64\Debug\AvaliadorDeGames.telaCadastro.resources
+C:\Users\gabri\source\repos\solution_AvaliadorDeGames_Gabriel\AvaliadorDeGames\obj\x64\Debug\AvaliadorDeGames.Properties.Resources.resources
+C:\Users\gabri\source\repos\solution_AvaliadorDeGames_Gabriel\AvaliadorDeGames\obj\x64\Debug\AvaliadorDeGames.View.telaLogin.resources
+C:\Users\gabri\source\repos\solution_AvaliadorDeGames_Gabriel\AvaliadorDeGames\obj\x64\Debug\AvaliadorDeGames.View.telaMenuPrincipal.resources
+C:\Users\gabri\source\repos\solution_AvaliadorDeGames_Gabriel\AvaliadorDeGames\obj\x64\Debug\AvaliadorDeGames.View.telaVisuDados.resources
+C:\Users\gabri\source\repos\solution_AvaliadorDeGames_Gabriel\AvaliadorDeGames\obj\x64\Debug\AvaliadorDeGames.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\solution_AvaliadorDeGames_Gabriel\AvaliadorDeGames\obj\x64\Debug\AvaliadorDeGames.exe
+C:\Users\gabri\source\repos\solution_AvaliadorDeGames_Gabriel\AvaliadorDeGames\obj\x64\Debug\AvaliadorDeGames.pdb

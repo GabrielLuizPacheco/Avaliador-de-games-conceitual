@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaliadorDeGames", "AvaliadorDeGames\AvaliadorDeGames.csproj", "{32FA7059-8CA6-47B7-B3C9-9886E646BDBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32FA7059-8CA6-47B7-B3C9-9886E646BDBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FA7059-8CA6-47B7-B3C9-9886E646BDBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FA7059-8CA6-47B7-B3C9-9886E646BDBF}.Debug|x64.ActiveCfg = Debug|x64
+		{32FA7059-8CA6-47B7-B3C9-9886E646BDBF}.Debug|x64.Build.0 = Debug|x64
+		{32FA7059-8CA6-47B7-B3C9-9886E646BDBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FA7059-8CA6-47B7-B3C9-9886E646BDBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32FA7059-8CA6-47B7-B3C9-9886E646BDBF}.Release|x64.ActiveCfg = Release|x64
+		{32FA7059-8CA6-47B7-B3C9-9886E646BDBF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A84B843-56DA-4F53-9104-D95E4C8D3264}
+	EndGlobalSection
+EndGlobal
